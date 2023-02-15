@@ -32,4 +32,8 @@ Fanseatz(Armypedia)
 ### Screenshots of some of the  Web Pages of this project :
 
 1. User interface to enter the credentials required for booking
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/login.png" width="100%"> 
+<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img1.PNG" width="100%"> 
+
+2. Final view of details of booking
+<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img2.PNG" width="100%"> 
+
