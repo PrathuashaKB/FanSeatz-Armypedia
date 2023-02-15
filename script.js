@@ -49,16 +49,16 @@ function handleTicketChange(ticket, isIncrease) {
             document.getElementById("booking-going-on").style.display = "none";
             document.getElementById("booking-successful").style.display = "block";
 
-            getInputValueFlying("flying-from");
-            getInputValueFlying("flying-to");
-            getInputValueDate("departure");
-            getInputValueDate("return");
+            getInputValueBooking("name");
+            getInputValueBooking("contact-no");
+            getInputValueDate("booking-date");
+            getInputValueDate("concert-date");
             getCurrentTicketCount("first-class-count");
             getCurrentTicketCount("economy-count");
             getCurrentTotalCost("total");
         });
 
-        function getInputValueFlying(status){
+        function getInputValueBooking(status){
             const updatedStatus = document.getElementById(status + "-input").value
             if(updatedStatus != ""){
                 document.getElementById(status + "-final-view").innerText = updatedStatus;
