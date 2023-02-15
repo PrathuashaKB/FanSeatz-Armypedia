@@ -7,27 +7,27 @@ Fanseatz(Armypedia)
 
 <span style="color:blue">**This Website is built for following purpose:**</span>
 
-1.Enter credentials of user
+1. Enter credentials of user
 
-2.Booking seats online
+2. Booking seats online
 
-3.View details of reservation
+3. View details of reservation
 
-4.Contact and know about us
+4. Contact and know about us
 
 ### Technologies used :
 
-1.HTML
+1. HTML
 
-2.CSS
+2. CSS
 
-3.JavaScript
+3. JavaScript
 
 ### Software required :
 
-1.Visual Source Code(Editor)
+1. Visual Source Code(Editor)
 
-2.Web Browser
+2. Web Browser
 
 ### Screenshots of some of the  Web Pages of this project :
 
