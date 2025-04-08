@@ -1,4 +1,4 @@
-# FanSeatz
+# FanSeatz-Armypedia
 
 <div>
   <p align="center">
