@@ -1,5 +1,10 @@
 # FanSeatz-Armypedia
 FanSeatz(Armypedia), a simple responsive ticket-booking web page.
+<div>
+  <p align="center">
+    <img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/Fanseatz-Logo.png" width="800"> 
+  </p>
+</div>
 
 ### About :
 This project is about the Ticket-Booking-System which is used to book tickets for a concert(here for example. BTS concert) and to view the ticket details. We can fill the credentials to book a seat in concert online.
